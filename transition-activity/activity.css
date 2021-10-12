@@ -1,1 +1,5 @@
-
+button {
+    position: relative;
+    color:ghostwhite;
+    transition-duration: 2s,2s,2s,2s,2s,2s;
+}
